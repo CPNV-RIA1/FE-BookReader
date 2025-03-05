@@ -36,8 +36,8 @@ This project is designed to be able to buy books but also read them and the main
 1. Clone the repository and install the required dependencies
 
 ```shell
-git clone *link*
-cd *repo_name*
+git clone [*link*](https://github.com/CPNV-RIA1/FE-BookReader.git)
+cd FE-BookReader
 ```
 
 2. Setup main branch and init Git Flow for the project
@@ -54,6 +54,7 @@ npm install
 ```
 
 How to get dependencies and build?
+
 ### Running tests
 
 All test on the project :
