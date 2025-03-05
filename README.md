@@ -67,16 +67,24 @@ How to deploy the application outside the dev environment.
 
 ```shell
 ./*FE_BookReader*
-├───docs
-├───README.md
-├───LICENSE.txt
-├───app
-│   ├────Http
-│   │     ├────Controllers
-│   │     │    ├───
 ├───config
 ├───database
+│   ├────migrations
+│   ├────seeders
+├───docs
+├───public
+│   ├────assets
+│   │     ├────css
+│   │     ├────img
+├───src
+│   ├────controllers
+│   ├────models
+│   ├────views
+├───tests
 ├───.gitignore
+├───LICENSE.txt
+├───README.md
+
 
 
 ```
